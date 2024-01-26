@@ -5,8 +5,6 @@
 
 Running at: <https://jpa03-aavash-adhikari.dokku-12.cs.ucsb.edu/>
 
-Then remove this TODO item.
-```
 
 Running at: <https://jpa03-aavash-adhikari.dokku-12.cs.ucsb.edu/>
 
